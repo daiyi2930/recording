@@ -1,10 +1,7 @@
 ## zhouxi的学习笔记_有道云笔记备份
+试试用gitpage做online备份
 
-You can use the [editor on GitHub](https://github.com/daiyi2930/recording/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
+### 算法&代码
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
@@ -38,7 +35,7 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
   bundle exec jekyll serve
 
-# => Now browse to http://localhost:4000
+# 
 
 ### Support or Contact
 
