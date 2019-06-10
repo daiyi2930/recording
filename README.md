@@ -1,5 +1,7 @@
 ## zhouxi的学习笔记_有道云笔记备份
-试试用gitpage做online备份
+
+
+试试用gitpage做online备份，记录一下今年学过的东西
 
 ### 算法&代码
 
