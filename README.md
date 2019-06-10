@@ -30,7 +30,15 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 ### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/daiyi2930/recording/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+  gem install bundler jekyll
+
+  jekyll new my-awesome-site
+
+  cd my-awesome-site
+
+  bundle exec jekyll serve
+
+# => Now browse to http://localhost:4000
 
 ### Support or Contact
 
